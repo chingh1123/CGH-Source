@@ -48,4 +48,6 @@
   
 【Vote DisBotList】 - https://disbotlist.xyz/bot/837564399833055272/vote
 
+【Support Server】- https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands
+
 </html>
