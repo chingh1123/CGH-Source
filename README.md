@@ -41,17 +41,18 @@
 **[ weather, youtube, spotify tracker, covid tracker, userinfo ]**
   
 -----------------------------------------------------------------------------------------------------------------------------
-【Invite】- https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands
+-【[Invite](https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands)】
   
   
-【Vote Top.gg】 - https://top.gg/bot/837564399833055272/vote/
+-【[Vote Top.gg](https://top.gg/bot/837564399833055272/vote/)】
   
   
-【Vote Discord Bot list】 - https://discord.ly/cgh
+-【[Vote Discord Bot list](https://discord.ly/cgh)】
   
   
-【Vote DisBotList】 - https://disbotlist.xyz/bot/837564399833055272/vote
+-【[Vote DisBotList](https://disbotlist.xyz/bot/837564399833055272/vote)】
 
-【Support Server】- https://discord.gg/ZaExNbkjPt
+
+-【[Support Server](https://discord.gg/ZaExNbkjPt)】
 
 </html>
