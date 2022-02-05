@@ -1,5 +1,4 @@
 # v13 CGH Discord Bot
-![code quality](https://img.shields.io/codefactor/grade/github/chinghytb/CGH-djsv13/main)
 ![license](https://img.shields.io/github/license/chinghytb/CGH-djsv13)
 ![last commit](https://img.shields.io/github/last-commit/chinghytb/CGH-djsv13)
 [![discord.js version](https://img.shields.io/github/package-json/dependency-version/chinghytb/CGH-djsv13/discord.js)](https://discord.js.org)
