@@ -1,4 +1,4 @@
-# v13 CGH Discord Bot
+# CGH Discord Bot Source
 ![license](https://img.shields.io/github/license/chinghytb/CGH-djsv13)
 ![last commit](https://img.shields.io/github/last-commit/chinghytb/CGH-djsv13)
 [![discord.js version](https://img.shields.io/github/package-json/dependency-version/chinghytb/CGH-djsv13/discord.js)](https://discord.js.org)
@@ -27,17 +27,13 @@
 ----------------------------------------------------------------------------------------------------------------------------
 **Examples of the bot functions:**
 
-**· Minigames | Fun**
-  
-**[ rps, tictactoe, button calculator, dinochrome ]**
-
-**· Fun Images**
-  
-**[ random meme images, color, trigger gif, panda ]**
-
-**· Search / checker commands**
-  
-**[ weather, youtube, spotify tracker, covid tracker, userinfo ]**
+|    Category   |     Example Commands      |
+|:----------:|:-------------:|
+| `Minigames & Fun` | `rps`, `tictactoe`, `fliptext` |
+| `Fun Images` |   ` trigger gif`, `meme images`   |
+| `Music System` | `play`, `skip`, `search` |
+| `Search / Trackers` | `weather`, `youtube`, `serverinfo` |
+| `Slash Commands` | `/eat`, `/userinfo`, `/meme` |
   
 -----------------------------------------------------------------------------------------------------------------------------
 -【[Invite](https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands)】
