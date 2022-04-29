@@ -36,7 +36,7 @@
 | `Slash Commands` | `/eat`, `/userinfo`, `/meme` |
   
 -----------------------------------------------------------------------------------------------------------------------------
--【[Invite](https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands)】
+-【[Invite](https://discord.com/oauth2/authorize?client_id=837564399833055272&permissions=278941465683&scope=bot%20applications.commands)】
   
   
 -【[Vote Top.gg](https://top.gg/bot/837564399833055272/vote/)】
