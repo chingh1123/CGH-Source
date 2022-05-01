@@ -1,7 +1,7 @@
 # CGH Discord Bot Source
-![license](https://img.shields.io/github/license/chinghytb/CGH-djsv13)
-![last commit](https://img.shields.io/github/last-commit/chinghytb/CGH-djsv13)
-[![discord.js version](https://img.shields.io/github/package-json/dependency-version/chinghytb/CGH-djsv13/discord.js)](https://discord.js.org)
+![license](https://img.shields.io/github/license/chingh1123/CGH-Source)
+![last commit](https://img.shields.io/github/last-commit/chingh1123/CGH-Source)
+[![discord.js version](https://img.shields.io/github/package-json/dependency-version/chingh1123/CGH-Source/discord.js)](https://discord.js.org)
 
 <!DOCTYPE html>
 <html lang="en">
