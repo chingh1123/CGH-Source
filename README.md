@@ -16,7 +16,7 @@
 <div>
   <header>
     <h1>CGH</h1>
-    <img class="avatar" src="https://cdn.discordapp.com/attachments/823403284156776458/895110255955025930/cgh.png" alt="Bot's Avatar!!">
+    <img class="avatar" src="https://cdn.discordapp.com/attachments/823403284156776458/895110255955025930/cgh.png" alt="Bot's Avatar!!" length=120 width=100>
     <h3>A simple and Powerful Discord Bot!</h3>
     <p class="description">Minigames 🎮 | Meme pictures 🤸‍♂️ | Music 🎵 | And more!</p>
   </header>
