@@ -1,8 +1,7 @@
-# v13 CGH Discord Bot
-![code quality](https://img.shields.io/codefactor/grade/github/chinghytb/CGH-djsv13/main)
-![license](https://img.shields.io/github/license/chinghytb/CGH-djsv13)
-![last commit](https://img.shields.io/github/last-commit/chinghytb/CGH-djsv13)
-[![discord.js version](https://img.shields.io/github/package-json/dependency-version/chinghytb/CGH-djsv13/discord.js)](https://discord.js.org)
+# CGH Discord Bot Source
+![license](https://img.shields.io/github/license/chingh1123/CGH-Source)
+![last commit](https://img.shields.io/github/last-commit/chingh1123/CGH-Source)
+[![discord.js version](https://img.shields.io/github/package-json/dependency-version/chingh1123/CGH-Source/discord.js)](https://discord.js.org)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +16,7 @@
 <div>
   <header>
     <h1>CGH</h1>
-    <img class="avatar" src="https://cdn.discordapp.com/attachments/823403284156776458/895110255955025930/cgh.png" alt="Bot's Avatar!!">
+    <img class="avatar" src="https://cdn.discordapp.com/attachments/823403284156776458/895110255955025930/cgh.png" alt="Bot's Avatar!!" length=120 width=100>
     <h3>A simple and Powerful Discord Bot!</h3>
     <p class="description">Minigames 🎮 | Meme pictures 🤸‍♂️ | Music 🎵 | And more!</p>
   </header>
@@ -28,30 +27,27 @@
 ----------------------------------------------------------------------------------------------------------------------------
 **Examples of the bot functions:**
 
-**· Minigames | Fun**
-  
-**[ rps, tictactoe, button calculator, dinochrome ]**
-
-**· Fun Images**
-  
-**[ random meme images, color, trigger gif, panda ]**
-
-**· Search / checker commands**
-  
-**[ weather, youtube, spotify tracker, covid tracker, userinfo ]**
+|    Category   |     Example Commands      |
+|:----------:|:-------------:|
+| `Minigames & Fun` | `rps`, `tictactoe`, `fliptext` |
+| `Fun Images` |   ` trigger gif`, `meme images`   |
+| `Music System` | `play`, `skip`, `search` |
+| `Search / Trackers` | `weather`, `youtube`, `serverinfo` |
+| `Slash Commands` | `/eat`, `/userinfo`, `/meme` |
   
 -----------------------------------------------------------------------------------------------------------------------------
-【Invite】- https://discord.com/api/oauth2/authorize?client_id=837564399833055272&permissions=4063559251&scope=bot%20applications.commands
+-【[Invite](https://discord.com/oauth2/authorize?client_id=837564399833055272&permissions=278941465683&scope=bot%20applications.commands)】
   
   
-【Vote Top.gg】 - https://top.gg/bot/837564399833055272/vote/
+-【[Vote Top.gg](https://top.gg/bot/837564399833055272/vote/)】
   
   
-【Vote Discord Bot list】 - https://discord.ly/cgh
+-【[Vote Discord Bot list](https://discord.ly/cgh)】
   
   
-【Vote DisBotList】 - https://disbotlist.xyz/bot/837564399833055272/vote
+-【[Vote DisBotList](https://disbotlist.xyz/bot/837564399833055272/vote)】
 
-【Support Server】- https://discord.gg/ZaExNbkjPt
+
+-【[Support Server](https://discord.gg/ZaExNbkjPt)】
 
 </html>
